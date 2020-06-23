@@ -18,7 +18,7 @@ const router = new Router({
         component: Uploader
       },
       {
-          path: '/video',
+          path: '/live',
           component: VideoPlayer,
       }
   ]
